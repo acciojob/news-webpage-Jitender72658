@@ -1,11 +1,19 @@
 /*  your css code here. If applicable */
 .heading{
 	background-color: #011e29;
-}
-#head{
 	color:white;
 	text-align:center;
 }
 .body{
 	background-color: #f5f5f5;
 }
+.pictorial-news-section{
+	text-align:center;
+}
+.latest-news-section{
+	text-align:center;
+}
+.main-article-section{
+	text-align:center;
+}
+
